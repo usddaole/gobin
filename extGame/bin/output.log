@@ -1,0 +1,14 @@
+
++++++===============+++++
+_debug_mode = false, _dev_mode:false, _mix_mode = false
+2025/03/29 15:19:43 loadConfigFromMongo.go:41: mongo url mongodb://admin:password123@165.154.13.163:27017/?directConnection=true
+Is there is anthor goServer run as 1001.system.service.ask.extGame.100100227 ........
+nobody answer me as 1001.system.service.ask.extGame.100100227
+2025/03/29 15:19:43 rpcxHelperV3.go:38: GetRegistEtcdBasePathV3 extGame isMix:false, 注册到key:/V3Rpcx/1001
+2025/03/29 15:19:44 rpcxHelper.go:212: 启动rpcx服务: 10.44.51.227:20084
+
+>>>>>>>>>>>>>>> Succ Run extGame-100100227 at 2025-03-29 15:19:44.056,cost: 657 ms <<<<<<<<<<<<<<<
+FrameOption: &{Port:0 Svrid:0 DisableNats:false DisableRpcx:false DisableMgo:false EnableMysql:false EnableMixServer:false EnableAllAreaMix:false EnableAppUid:false XClientPoolSize:0 EventHandlerNum:0 DisableHttpProxy:false AllowCrossServer:false}
+>>>>>>>>>>>>>>> <<<<<<<<<<<<<<<
+
+

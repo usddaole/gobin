@@ -1,0 +1,14 @@
+
++++++===============+++++
+_debug_mode = false, _dev_mode:false, _mix_mode = false
+2025/04/05 06:50:39 loadConfigFromMongo.go:41: mongo url mongodb://admin:password123@165.154.13.163:27017/?directConnection=true
+Is there is anthor goServer run as 1001.system.service.ask.vip.100100227 ........
+nobody answer me as 1001.system.service.ask.vip.100100227
+2025/04/05 06:50:40 rpcxHelperV3.go:38: GetRegistEtcdBasePathV3 vip isMix:false, 注册到key:/V3Rpcx/1001
+2025/04/05 06:50:42 rpcxHelper.go:212: 启动rpcx服务: 10.44.51.227:20082
+
+>>>>>>>>>>>>>>> Succ Run vip-100100227 at 2025-04-05 06:50:42.604,cost: 2490 ms <<<<<<<<<<<<<<<
+FrameOption: &{Port:0 Svrid:0 DisableNats:false DisableRpcx:false DisableMgo:false EnableMysql:false EnableMixServer:false EnableAllAreaMix:false EnableAppUid:false XClientPoolSize:0 EventHandlerNum:0 DisableHttpProxy:false AllowCrossServer:false}
+>>>>>>>>>>>>>>> <<<<<<<<<<<<<<<
+
+

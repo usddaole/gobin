@@ -1,0 +1,14 @@
+[Real]
+Url=["165.154.13.163:27017/"]
+User="admin"
+Password="password123"
+PoolNum=64
+Query="directConnection=true"
+#Ssl=true
+[Conf]
+Url=["165.154.13.163:27017/"]
+User="admin"
+Password="password123"
+PoolNum=64
+Query="directConnection=true"
+#Ssl=true

@@ -1,0 +1,15 @@
+
++++++===============+++++
+_debug_mode = false, _dev_mode:false, _mix_mode = false
+2025/03/27 17:07:15 loadConfigFromMongo.go:41: mongo url mongodb://admin:password123@165.154.13.163:27017/?directConnection=true
+Is there is anthor goServer run as 1001.system.service.ask.provider.100100227 ........
+nobody answer me as 1001.system.service.ask.provider.100100227
+2025/03/27 17:07:15 rpcxHelperV3.go:38: GetRegistEtcdBasePathV3 provider isMix:false, 注册到key:/V3Rpcx/1001
+2025/03/27 17:07:15 rpcxHelper.go:212: 启动rpcx服务: 10.44.51.227:20067
+
+>>>>>>>>>>>>>>> Succ Run provider-100100227 at 2025-03-27 17:07:15.885,cost: 171 ms <<<<<<<<<<<<<<<
+FrameOption: &{Port:0 Svrid:0 DisableNats:false DisableRpcx:false DisableMgo:false EnableMysql:false EnableMixServer:false EnableAllAreaMix:false EnableAppUid:false XClientPoolSize:0 EventHandlerNum:0 DisableHttpProxy:false AllowCrossServer:false}
+>>>>>>>>>>>>>>> <<<<<<<<<<<<<<<
+
+
+{"level":"warn","ts":"2025-04-11T03:07:22.716820+0400","logger":"etcd-client","caller":"v3@v3.5.1/retry_interceptor.go:62","msg":"retrying of unary invoker failed","target":"etcd-endpoints://0xc00038b180/127.0.0.1:2379","attempt":0,"error":"rpc error: code = Unavailable desc = etcdserver: request timed out"}
